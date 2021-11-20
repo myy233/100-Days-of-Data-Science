@@ -1,3 +1,2 @@
-# Day-001-Data-Science
-Goal: Install Python
-Completed 11/20/21
+# 100-Days-of-Data-Science
+Day 001: Install Python Environment/Create Hello World.py
